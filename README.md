@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h2>Hi <span><img src="Assets/waving-hand.gif" width="20px"/></span>, I'm Ahmed Elsherbiny</h2>
+  <h2>Hi <span><img src="Assets/waving-hand.gif" width="20px"/></span>, I'm Mohamed Adel</h2>
 </div>
 
 ## Socials:
