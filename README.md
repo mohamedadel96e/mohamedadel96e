@@ -21,10 +21,11 @@
   <h2>Socials</h2>
 </div>
 
-<div align="center"  style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<div align="center" >
   <a href="https://discord.gg/mohamedadel7321" style="margin-right: 10px;">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
+  <span width="10px"></span>
   <a href="https://linkedin.com/in/mohamed-adel96e">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
