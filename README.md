@@ -9,18 +9,14 @@
   <h2>Socials</h2>
 </div>
 
-<span align="center">
+<div align="center">
   <a href="https://discord.gg/mohamedadel7321">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-</span>
-
-<span align="center">
   <a href="https://linkedin.com/in/mohamed-adel96e">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</span>
-
+</div>
 
 
 # 💻 Tech Stack:
