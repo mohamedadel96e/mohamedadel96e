@@ -21,7 +21,7 @@
   <h2>Socials</h2>
 </div>
 
-<div align="center">
+<div align="center"  style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://discord.gg/mohamedadel7321" style="margin-right: 10px;">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
