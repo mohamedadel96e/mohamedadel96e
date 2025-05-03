@@ -5,17 +5,19 @@
   <h2>Hi <span><img src="Assets/waving-hand.gif" width="20px"/></span>, I'm Mohamed Adel</h2>
 </div>
 
-<div align="center">
-  <h2>Socials</h2>
-</div>
+<br>
 
 <div align="center">
-  <a href="https://discord.gg/mohamedadel7321">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-  <a href="https://linkedin.com/in/mohamed-adel96e">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedadel96e&theme=chartreuse-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mohamedadel96e&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedadel96e&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
+
+
+<div align="center">
+  <h2>Tech Skills</h2>
 </div>
 
 
