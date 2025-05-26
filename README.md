@@ -1,5 +1,3 @@
-![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
-
 
 <div align="center">
   <h2>Hi <span><img src="Assets/waving-hand.gif" width="20px"/></span>, I'm Mohamed Adel</h2>
