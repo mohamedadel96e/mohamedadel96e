@@ -16,7 +16,7 @@
   <a href="https://x.com/MohamedAdel96e">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://discord.gg/mohamedadel7321" margin-right="10px">
+  <a href="https://discord.gg/mohamed_a_adel" margin-right="10px">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
   
