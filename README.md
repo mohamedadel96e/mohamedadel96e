@@ -1,6 +1,6 @@
 
 ## Hi I'm Mohamed Adel
-- 2rd Year Computer & Systems Student.
+- 3rd Year Computer & Systems Student.
 - Spring Boot & Laravel Backend Developer who is eager to deep dive into software Concepts.
 - Backend Track Member @[IEEE ZSB](https://ieee-zsb.org/).
 
