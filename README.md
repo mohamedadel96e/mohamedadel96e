@@ -48,7 +48,7 @@
 <div align="center" >
   
   <a href="https://skillicons.dev/icons?i=git,github,docker,arduino,jenkins,npm,vscode,idea,phpstorm,maven,nginx,obsidian">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,arduino,jenkins,npm,vscode,idea,phpstorm,maven,nginx,obsidian" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,docker,arduino,jenkins,npm,vscode,idea,phpstorm,maven,nginx,obsidian" />
   </a>
 </div>
 
