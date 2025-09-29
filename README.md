@@ -1,9 +1,10 @@
 
 ## Hi I'm Mohamed Adel
 - 3rd Year Computer & Systems Student.
-- Spring Boot & Laravel Backend Developer who is eager to deep dive into software Concepts.
+- Spring Boot & Laravel & NodeJS Backend Developer who is eager to deep dive into software Concepts.
 - Backend Track Member @[IEEE ZSB](https://ieee-zsb.org/).
 - Checkout my Portfolio [mohamedabbas.tech](https://mohamedabbas.tech)
+- My Social Media: [Linkedin](https://linkedin.com/in/mohamed-adel96e), [X](https://x.com/MohamedAdel96e), [Gmail](mailto:mohamedadel96e@gmail.com).
 
 
 <div align="center">
@@ -54,13 +55,13 @@
 
 <hr>
 
-<div align="center">
+<!-- <div align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedadel96e&theme=chartreuse-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=mohamedadel96e&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedadel96e&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-</div>
+</div> -->
 
 
 
