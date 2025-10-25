@@ -1,7 +1,7 @@
 
 ## Hi I'm Mohamed Adel
 - 3rd Year Computer & Systems Student.
-- Spring Boot & Laravel & NodeJS Backend Developer who is eager to deep dive into software Concepts.
+- Junior Software Engineer who is eager to deep dive into software Concepts.
 - Backend Track Member @[IEEE ZSB](https://ieee-zsb.org/).
 - Checkout my Portfolio [mohamedabbas.tech](https://mohamedabbas.tech)
 - My Social Media: [Linkedin](https://linkedin.com/in/mohamed-adel96e), [X](https://x.com/MohamedAdel96e), [Gmail](mailto:mohamedadel96e@gmail.com).
