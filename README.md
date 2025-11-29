@@ -5,7 +5,7 @@
 - Backend Track Head @[IEEE ZSB](https://ieee-zsb.org/).
 - My Social Media: [Linkedin](https://linkedin.com/in/mohamed-adel96e), [X](https://x.com/MohamedAdel96e), [Gmail](mailto:mohamedadel96e@gmail.com).
 - You can view my CV from [Here](https://drive.google.com/file/d/1IfRF6mbrrkq9ZXkkkmjkM8KoQMDgklTm/view?usp=sharing)
-- You can Checkout my Portfoliof [mohamedabbas.tech](https://mohamedabbas.tech)
+- You can Checkout my Portfolio [mohamedabbas.tech](https://mohamedabbas.tech)
 
 
 
